@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to CodeCat GitHub 👋
 👋 **About Me**
 
 Full-stack developer specializing in blockchain and AI convergence
