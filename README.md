@@ -6,6 +6,8 @@ Full-stack developer specializing in blockchain and AI convergence
 ## Technical Arsenal
 
 ![Skills](https://skillicons.dev/icons?i=solidity,rust,react,vue,mysql,redis,python,java,linux)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tools-touch&theme=tokyo-night&hide_border=true&area=true)
 <!--
 **Tools-touch/Tools-touch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
